@@ -18,5 +18,5 @@ DIPI is a working group within the wider mSCAPE project. It aims to:
 
 ## Resources
 
-* [DIPI Changelog](https://climb-tre.github.io/mscape/changelog)
+* [DIPI Changelog](https://climb-tre.github.io/mscape-changelog)
 * [DIPI Incident Reports](https://github.com/CLIMB-TRE/mscape-dipi-group/tree/main/postmortems)
