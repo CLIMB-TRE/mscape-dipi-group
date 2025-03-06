@@ -1,4 +1,7 @@
 <div align="center">
+<p align="center">
+   <img src="/assets/mscape.png" alt="mSCAPE Badge" width="250"> 
+</p>
 <h3 align="center">CLIMB-TRE mSCAPE Project</h3>
 <h1 align="center">Data Integrity and Pipeline Integration Working Group</h1>
 </div>
@@ -16,4 +19,4 @@ DIPI is a working group within the wider mSCAPE project. It aims to:
 ## Resources
 
 * [DIPI Changelog](https://climb-tre.github.io/mscape/changelog)
-* [DIPI Incident Reports](https://github.com/CLIMB-TRE/mscape-dipi-group/tree/official/postmortems)
+* [DIPI Incident Reports](https://github.com/CLIMB-TRE/mscape-dipi-group/tree/main/postmortems)
